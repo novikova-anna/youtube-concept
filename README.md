@@ -1,1 +1,1 @@
-# youtube-concept
+# YouTube-concept - учебный проект
