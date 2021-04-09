@@ -70,5 +70,5 @@ searchBtn.addEventListener('click', () => {
 if (document.documentElement.scrollWidth <= 640) {
   myChannelSlider.destroy();
   recommendedChannelSlider.destroy();
-  recommendedSlider.destroy().
-}
+  recommendedSlider.destroy();
+};
